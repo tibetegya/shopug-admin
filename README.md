@@ -128,3 +128,4 @@ ENVIRONMENT=
 ```
 
 #### Crafted with ❤️ by [Saleor Commerce](https://saleor.io)
+# shopug-admin
